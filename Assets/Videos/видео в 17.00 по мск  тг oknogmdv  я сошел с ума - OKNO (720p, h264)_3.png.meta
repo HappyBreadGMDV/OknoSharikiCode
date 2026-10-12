@@ -1,0 +1,3265 @@
+fileFormatVersion: 2
+guid: 870b1bcdc14c0224b81e5a30938a0445
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1523509876787676211
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_0"
+  - first:
+      213: -1030726136751441672
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_1"
+  - first:
+      213: 6918693294689490009
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_2"
+  - first:
+      213: -2691095436327710930
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_3"
+  - first:
+      213: 749066895994847418
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_4"
+  - first:
+      213: -1941335321767499707
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_5"
+  - first:
+      213: -4991800515570888054
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_6"
+  - first:
+      213: -7967248701278162488
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_7"
+  - first:
+      213: 134317957601216845
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_8"
+  - first:
+      213: 2394237300960415461
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_9"
+  - first:
+      213: -510068556056460785
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_10"
+  - first:
+      213: 8671787728934716143
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_11"
+  - first:
+      213: -3601672089464672936
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_12"
+  - first:
+      213: 5467576293490469023
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_13"
+  - first:
+      213: -2344183582423960182
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_14"
+  - first:
+      213: 1303839714196461626
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_15"
+  - first:
+      213: 4901452921698854593
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_16"
+  - first:
+      213: -5440194740162764082
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_17"
+  - first:
+      213: 7723755922557250988
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_18"
+  - first:
+      213: -1658280869531762922
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_19"
+  - first:
+      213: -926900384972582521
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_20"
+  - first:
+      213: -487205881901907878
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_21"
+  - first:
+      213: 6418234391565854980
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_22"
+  - first:
+      213: -228828774819474191
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_23"
+  - first:
+      213: -9036043311161129161
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_24"
+  - first:
+      213: 3285231952641899189
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_25"
+  - first:
+      213: -6421607909376502036
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_26"
+  - first:
+      213: -5477871600756643973
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_27"
+  - first:
+      213: -3382125908493882654
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_28"
+  - first:
+      213: 4085576169041597659
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_29"
+  - first:
+      213: 7217384615916946931
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_30"
+  - first:
+      213: -345893562513467679
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_31"
+  - first:
+      213: -7001988301621732530
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_32"
+  - first:
+      213: -1857446505463903286
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_33"
+  - first:
+      213: -2681136242700977292
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_34"
+  - first:
+      213: -1723622033406579712
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_35"
+  - first:
+      213: 4749352433464211852
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_36"
+  - first:
+      213: -6818098903758042956
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_37"
+  - first:
+      213: -812649884256458364
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_38"
+  - first:
+      213: -1516113115657044381
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_39"
+  - first:
+      213: -8864217776306950531
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_40"
+  - first:
+      213: 392989689465008113
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_41"
+  - first:
+      213: -6613297711587434776
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_42"
+  - first:
+      213: -4212442957067044137
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_43"
+  - first:
+      213: 8349920046599199472
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_44"
+  - first:
+      213: 9071661947856359318
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_45"
+  - first:
+      213: 1762682184378247821
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_46"
+  - first:
+      213: -9195486211553829207
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_47"
+  - first:
+      213: 1389330272275919622
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_48"
+  - first:
+      213: 7251442811199126701
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_49"
+  - first:
+      213: 7301207957280248092
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_50"
+  - first:
+      213: 3870771292731715481
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_51"
+  - first:
+      213: -2020743593954123337
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_52"
+  - first:
+      213: -1907689527056590801
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_53"
+  - first:
+      213: -2699145593809339824
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_54"
+  - first:
+      213: 5122301757880331469
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_55"
+  - first:
+      213: -6972886641831660584
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_56"
+  - first:
+      213: 4062035520966749365
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_57"
+  - first:
+      213: -5698022448926172334
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_58"
+  - first:
+      213: 1520860498621001915
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_59"
+  - first:
+      213: -7011713788385550596
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_60"
+  - first:
+      213: -2215347001319204858
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_61"
+  - first:
+      213: -754725193393132464
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_62"
+  - first:
+      213: 8403412079077969462
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_63"
+  - first:
+      213: 2169524695704736352
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_64"
+  - first:
+      213: -2925007743474208791
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_65"
+  - first:
+      213: -2445175346169787692
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_66"
+  - first:
+      213: 3538090976530507467
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_67"
+  - first:
+      213: -5077416062895171064
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_68"
+  - first:
+      213: 3423150548170873146
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_69"
+  - first:
+      213: 6949046826732958507
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_70"
+  - first:
+      213: -8916118366787091779
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_71"
+  - first:
+      213: -5005626580027954275
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_72"
+  - first:
+      213: 8109305848946322270
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_73"
+  - first:
+      213: -6782778817467876476
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_74"
+  - first:
+      213: 3511998362481705073
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_75"
+  - first:
+      213: -8064823894375635720
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_76"
+  - first:
+      213: -1703778477685791307
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_77"
+  - first:
+      213: 2706064708946035314
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_78"
+  - first:
+      213: -6798204231529769086
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_79"
+  - first:
+      213: -3076042449190321717
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_80"
+  - first:
+      213: -3519886913157748760
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_81"
+  - first:
+      213: 7626717993419256808
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_82"
+  - first:
+      213: -3714013405598986148
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_83"
+  - first:
+      213: -7897903671832227440
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_84"
+  - first:
+      213: 7103253227110697055
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_85"
+  - first:
+      213: -8626219096139009686
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_86"
+  - first:
+      213: 1072525518852080755
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_87"
+  - first:
+      213: -6176664990358681406
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_88"
+  - first:
+      213: -3532926024048058238
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_89"
+  - first:
+      213: 8544329950156977650
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_90"
+  - first:
+      213: -1566287891784995993
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_91"
+  - first:
+      213: 5596256458400943802
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_92"
+  - first:
+      213: -2456449198929099203
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_93"
+  - first:
+      213: 2746216533679867038
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_94"
+  - first:
+      213: -2351093617816772944
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_95"
+  - first:
+      213: -338081142703983847
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_96"
+  - first:
+      213: -157121224214737914
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_97"
+  - first:
+      213: 8017711983773628777
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_98"
+  - first:
+      213: 4705223658032257781
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_99"
+  - first:
+      213: 1910841910140379302
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_100"
+  - first:
+      213: 6340687887212344672
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_101"
+  - first:
+      213: 3030004328515280453
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_102"
+  - first:
+      213: 8732993502986471481
+    second: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+      \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+      - OKNO (720p, h264)_3_103"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_0"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8966
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb7546c6d76bdae0800000000000000
+      internalID: -1523509876787676211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_1"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 8966
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f838362a0022b1f0800000000000000
+      internalID: -1030726136751441672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_2"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 8966
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95418db05e2240060800000000000000
+      internalID: 6918693294689490009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_3"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 8966
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f030d65fe47aad0800000000000000
+      internalID: -2691095436327710930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_4"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 8966
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab007c88f58356a00800000000000000
+      internalID: 749066895994847418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_5"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 8966
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548212c7fcdfe05e0800000000000000
+      internalID: -1941335321767499707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_6"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 8966
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8219c7f0ef89bab0800000000000000
+      internalID: -4991800515570888054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_7"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8326
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c17f1bb485ae6190800000000000000
+      internalID: -7967248701278162488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_8"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 8326
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49c6c588713dd100800000000000000
+      internalID: 134317957601216845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_9"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 8326
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee4cb7d32a0a3120800000000000000
+      internalID: 2394237300960415461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_10"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 8326
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f028829c95fdbe8f0800000000000000
+      internalID: -510068556056460785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_11"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 8326
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2cebe8ef0685870800000000000000
+      internalID: 8671787728934716143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_12"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 8326
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85de40e215a440ec0800000000000000
+      internalID: -3601672089464672936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_13"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 8326
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98a8d3ababb0eb40800000000000000
+      internalID: 5467576293490469023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_14"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7686
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853159a379c77fd0800000000000000
+      internalID: -2344183582423960182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_15"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 7686
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a381ab0ef4b281210800000000000000
+      internalID: 1303839714196461626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_16"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 7686
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c629299675750440800000000000000
+      internalID: 4901452921698854593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_17"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 7686
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec266ab05bb8084b0800000000000000
+      internalID: -5440194740162764082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_18"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 7686
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad28dfd61b403b60800000000000000
+      internalID: 7723755922557250988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_19"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 7686
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fbbb9c55a9cf8e0800000000000000
+      internalID: -1658280869531762922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_20"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 7686
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7815983c20df223f0800000000000000
+      internalID: -926900384972582521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_21"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7046
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5081cce4d81d39f0800000000000000
+      internalID: -487205881901907878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_22"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 7046
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4096a728c26221950800000000000000
+      internalID: 6418234391565854980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_23"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 7046
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f45f72117903dcf0800000000000000
+      internalID: -228828774819474191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_24"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 7046
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374237cb76899280800000000000000
+      internalID: -9036043311161129161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_25"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 7046
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5babbf51e0d779d20800000000000000
+      internalID: 3285231952641899189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_26"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 7046
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce656ca21add1e6a0800000000000000
+      internalID: -6421607909376502036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_27"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 7046
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7723b75dc0baf3b0800000000000000
+      internalID: -5477871600756643973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_28"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6406
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa39ec7664011d0800000000000000
+      internalID: -3382125908493882654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_29"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 6406
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4968221e1e2b830800000000000000
+      internalID: 4085576169041597659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_30"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 6406
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5491f911d492460800000000000000
+      internalID: 7217384615916946931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_31"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 6406
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e65a4433a3233bf0800000000000000
+      internalID: -345893562513467679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_32"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 6406
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b5560ecb0f3de90800000000000000
+      internalID: -7001988301621732530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_33"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 6406
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb88849e360936e0800000000000000
+      internalID: -1857446505463903286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_34"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 6406
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bf163eac0bacad0800000000000000
+      internalID: -2681136242700977292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_35"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5766
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ca3cb84e67418e0800000000000000
+      internalID: -1723622033406579712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_36"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 5766
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8975c500e619e140800000000000000
+      internalID: 4749352433464211852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_37"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 5766
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8850ebb2f3161a0800000000000000
+      internalID: -6818098903758042956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_38"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 5766
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489a1226c33e8b4f0800000000000000
+      internalID: -812649884256458364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_39"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 5766
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e73fd672fa5fae0800000000000000
+      internalID: -1516113115657044381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_40"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 5766
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e6587a5e8fbf480800000000000000
+      internalID: -8864217776306950531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_41"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 5766
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe3f85a0e247500800000000000000
+      internalID: 392989689465008113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_42"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5126
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee5de225c8d834a0800000000000000
+      internalID: -6613297711587434776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_43"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 5126
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da3c63f2756a85c0800000000000000
+      internalID: -4212442957067044137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_44"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 5126
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa5578ea00e0e370800000000000000
+      internalID: 8349920046599199472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_45"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 5126
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f08645a7405ed70800000000000000
+      internalID: 9071661947856359318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_46"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 5126
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a66cb8b1e467810800000000000000
+      internalID: 1762682184378247821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_47"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 5126
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aed457a202136080800000000000000
+      internalID: -9195486211553829207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_48"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 5126
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603f3ba8584e74310800000000000000
+      internalID: 1389330272275919622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_49"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4486
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac759621dc42a460800000000000000
+      internalID: 7251442811199126701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_50"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 4486
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11d1f424f9135560800000000000000
+      internalID: 7301207957280248092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_51"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 4486
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fad068bfdb7b530800000000000000
+      internalID: 3870771292731715481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_52"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 4486
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1e73c5860e4f3e0800000000000000
+      internalID: -2020743593954123337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_53"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 4486
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f281f068b768685e0800000000000000
+      internalID: -1907689527056590801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_54"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 4486
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05afee31265ba8ad0800000000000000
+      internalID: -2699145593809339824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_55"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 4486
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcce0d64f42161740800000000000000
+      internalID: 5122301757880331469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_56"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3846
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3be8e0b845b3f90800000000000000
+      internalID: -6972886641831660584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_57"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3846
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bced34e8cf3f5830800000000000000
+      internalID: 4062035520966749365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_58"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 3846
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bdd89a5ce8ce0b0800000000000000
+      internalID: -5698022448926172334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_59"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 3846
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb07a3dc09e2b1510800000000000000
+      internalID: 1520860498621001915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_60"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3846
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe1298857361be90800000000000000
+      internalID: -7011713788385550596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_61"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 3846
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6085424c3a18141e0800000000000000
+      internalID: -2215347001319204858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_62"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 3846
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca3c07f6da685f0800000000000000
+      internalID: -754725193393132464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_63"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3206
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e4ba243caee9470800000000000000
+      internalID: 8403412079077969462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_64"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3206
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0621be25733bb1e10800000000000000
+      internalID: 2169524695704736352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_65"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 3206
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efe3f464f84867d0800000000000000
+      internalID: -2925007743474208791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_66"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 3206
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dac10e4afdf01ed0800000000000000
+      internalID: -2445175346169787692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_67"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3206
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ad1f5ff2d91130800000000000000
+      internalID: 3538090976530507467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_68"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 3206
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a554afdf46989b0800000000000000
+      internalID: -5077416062895171064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_69"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 3206
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3998647949718f20800000000000000
+      internalID: 3423150548170873146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_70"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2566
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2339f27549ff6060800000000000000
+      internalID: 6949046826732958507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_71"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2566
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c154c595934480800000000000000
+      internalID: -8916118366787091779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_72"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2566
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b2e2b7521788ab0800000000000000
+      internalID: -5005626580027954275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_73"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2566
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b617564ba0a8070800000000000000
+      internalID: 8109305848946322270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_74"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 2566
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b78ca2a9abed1a0800000000000000
+      internalID: -6782778817467876476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_75"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 2566
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170c97f37ef1db030800000000000000
+      internalID: 3511998362481705073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_76"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 2566
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f468a7b56df31090800000000000000
+      internalID: -8064823894375635720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_77"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1926
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b525956086fa58e0800000000000000
+      internalID: -1703778477685791307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_78"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1926
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27203f3f38fdd8520800000000000000
+      internalID: 2706064708946035314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_79"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1926
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2875c15154de7a1a0800000000000000
+      internalID: -6798204231529769086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_80"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1926
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc10df5a0b3bf45d0800000000000000
+      internalID: -3076042449190321717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_81"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1926
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7afab6089d62fc0800000000000000
+      internalID: -3519886913157748760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_82"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 1926
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3b5df5b9b87d960800000000000000
+      internalID: 7626717993419256808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_83"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1926
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50db3c3c7c257cc0800000000000000
+      internalID: -3714013405598986148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_84"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1286
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091df229472056290800000000000000
+      internalID: -7897903671832227440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_85"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1286
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f588497ec23d39260800000000000000
+      internalID: 7103253227110697055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_86"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1286
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6171fb8f63894880800000000000000
+      internalID: -8626219096139009686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_87"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1286
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37448b3e64062ee00800000000000000
+      internalID: 1072525518852080755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_88"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1286
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c84419aae3184aa0800000000000000
+      internalID: -6176664990358681406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_89"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 1286
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280e1e6df7688fec0800000000000000
+      internalID: -3532926024048058238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_90"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1286
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f576d2e1de839670800000000000000
+      internalID: 8544329950156977650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_91"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 646
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76be822067d634ae0800000000000000
+      internalID: -1566287891784995993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_92"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 646
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe49f24995e9ad40800000000000000
+      internalID: 5596256458400943802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_93"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 646
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36c909e770f8edd0800000000000000
+      internalID: -2456449198929099203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_94"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 646
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e940b4623658c1620800000000000000
+      internalID: 2746216533679867038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_95"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 646
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bed75cafcc3f5fd0800000000000000
+      internalID: -2351093617816772944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_96"
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 646
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913fedfedf4ee4bf0800000000000000
+      internalID: -338081142703983847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_97"
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 646
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c810c341bc1ddf0800000000000000
+      internalID: -157121224214737914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_98"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9693830d192a44f60800000000000000
+      internalID: 8017711983773628777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_99"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 6
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fad6c5dcff4c4140800000000000000
+      internalID: 4705223658032257781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_100"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 6
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0a8dbd79ca48a10800000000000000
+      internalID: 1910841910140379302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_101"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 6
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065f9ecf906aef750800000000000000
+      internalID: 6340687887212344672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_102"
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 6
+        width: 632
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e9c0512ecbc0a20800000000000000
+      internalID: 3030004328515280453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A 
+        \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430
+        - OKNO (720p, h264)_3_103"
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 1280
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9388d435253d13970800000000000000
+      internalID: 8732993502986471481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cd3d76de4728fb549b29fe8f1d6d670d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_0": -1523509876787676211
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_1": -1030726136751441672
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_10": -510068556056460785
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_100": 1910841910140379302
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_101": 6340687887212344672
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_102": 3030004328515280453
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_103": 8732993502986471481
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_11": 8671787728934716143
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_12": -3601672089464672936
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_13": 5467576293490469023
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_14": -2344183582423960182
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_15": 1303839714196461626
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_16": 4901452921698854593
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_17": -5440194740162764082
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_18": 7723755922557250988
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_19": -1658280869531762922
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_2": 6918693294689490009
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_20": -926900384972582521
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_21": -487205881901907878
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_22": 6418234391565854980
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_23": -228828774819474191
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_24": -9036043311161129161
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_25": 3285231952641899189
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_26": -6421607909376502036
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_27": -5477871600756643973
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_28": -3382125908493882654
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_29": 4085576169041597659
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_3": -2691095436327710930
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_30": 7217384615916946931
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_31": -345893562513467679
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_32": -7001988301621732530
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_33": -1857446505463903286
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_34": -2681136242700977292
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_35": -1723622033406579712
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_36": 4749352433464211852
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_37": -6818098903758042956
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_38": -812649884256458364
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_39": -1516113115657044381
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_4": 749066895994847418
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_40": -8864217776306950531
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_41": 392989689465008113
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_42": -6613297711587434776
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_43": -4212442957067044137
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_44": 8349920046599199472
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_45": 9071661947856359318
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_46": 1762682184378247821
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_47": -9195486211553829207
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_48": 1389330272275919622
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_49": 7251442811199126701
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_5": -1941335321767499707
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_50": 7301207957280248092
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_51": 3870771292731715481
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_52": -2020743593954123337
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_53": -1907689527056590801
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_54": -2699145593809339824
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_55": 5122301757880331469
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_56": -6972886641831660584
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_57": 4062035520966749365
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_58": -5698022448926172334
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_59": 1520860498621001915
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_6": -4991800515570888054
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_60": -7011713788385550596
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_61": -2215347001319204858
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_62": -754725193393132464
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_63": 8403412079077969462
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_64": 2169524695704736352
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_65": -2925007743474208791
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_66": -2445175346169787692
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_67": 3538090976530507467
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_68": -5077416062895171064
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_69": 3423150548170873146
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_7": -7967248701278162488
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_70": 6949046826732958507
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_71": -8916118366787091779
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_72": -5005626580027954275
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_73": 8109305848946322270
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_74": -6782778817467876476
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_75": 3511998362481705073
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_76": -8064823894375635720
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_77": -1703778477685791307
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_78": 2706064708946035314
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_79": -6798204231529769086
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_8": 134317957601216845
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_80": -3076042449190321717
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_81": -3519886913157748760
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_82": 7626717993419256808
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_83": -3714013405598986148
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_84": -7897903671832227440
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_85": 7103253227110697055
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_86": -8626219096139009686
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_87": 1072525518852080755
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_88": -6176664990358681406
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_89": -3532926024048058238
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_9": 2394237300960415461
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_90": 8544329950156977650
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_91": -1566287891784995993
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_92": 5596256458400943802
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_93": -2456449198929099203
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_94": 2746216533679867038
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_95": -2351093617816772944
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_96": -338081142703983847
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_97": -157121224214737914
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_98": 8017711983773628777
+      "\u0432\u0438\u0434\u0435\u043E \u0432 17.00 \u043F\u043E \u043C\u0441\u043A  \u0442\u0433 oknogmdv  \u044F \u0441\u043E\u0448\u0435\u043B \u0441 \u0443\u043C\u0430 - OKNO (720p, h264)_3_99": 4705223658032257781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

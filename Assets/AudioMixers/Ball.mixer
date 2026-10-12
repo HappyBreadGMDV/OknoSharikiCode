@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!241 &24100000
+AudioMixerController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ball
+  m_OutputGroup: {fileID: 0}
+  m_MasterGroup: {fileID: 24300002}
+  m_Snapshots:
+  - {fileID: 24500006}
+  m_StartSnapshot: {fileID: 24500006}
+  m_SuspendThreshold: -80
+  m_EnableSuspend: 1
+  m_UpdateMode: 0
+  m_ExposedParameters:
+  - guid: 5723cc1af2b4f744c86c8841260d6b8a
+    name: musicVol
+  m_AudioMixerGroupViews:
+  - guids:
+    - 474e5467267a54f4b836b98e3d7fdb16
+    name: View
+  m_CurrentViewIndex: 0
+  m_TargetSnapshot: {fileID: 24500006}
+--- !u!243 &24300002
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Master
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: 474e5467267a54f4b836b98e3d7fdb16
+  m_Children: []
+  m_Volume: 5723cc1af2b4f744c86c8841260d6b8a
+  m_Pitch: fb1d5ac7ccee8da438735ffa0e001368
+  m_Send: 00000000000000000000000000000000
+  m_Effects:
+  - {fileID: 24400004}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
+--- !u!244 &24400004
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: 55e511b04732fb24c83e66d9e6ffdacd
+  m_EffectName: Attenuation
+  m_MixLevel: 594ac2c6d45202749a39f694f969f795
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!245 &24500006
+AudioMixerSnapshotController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snapshot
+  m_AudioMixer: {fileID: 24100000}
+  m_SnapshotID: 3f73e97248ffa8b42bafcba18d34af1f
+  m_FloatValues:
+    bdddbc20ffca9f642bffe455c73c8c4c: 11421
+    10d241e294486674ab9098026ddef029: 0
+    086c5c36788740340b06aba7c4fbd806: 0
+    fb1d5ac7ccee8da438735ffa0e001368: 1
+    5723cc1af2b4f744c86c8841260d6b8a: 0
+    61a1b29c84389b84e993869a91a66b93: 1
+  m_TransitionOverrides: {}
